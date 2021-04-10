@@ -3,6 +3,8 @@ Tamil Nadu Assembly Election 2021 data about candidates
 
 The data is scrapped from myneta.info using [myneta CLI](https://github.com/kracekumar/myneta)
 
+Kaggle dataset link - https://www.kaggle.com/kracekumar/tamilnadu-assembly-election-2021
+
 ### Files
 
 - candidates.csv - A list of candidates and their party and wealth information.
